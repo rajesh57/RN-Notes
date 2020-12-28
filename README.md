@@ -1,2 +1,2 @@
-# Notes for learing 
+# Notes for learning 
 
