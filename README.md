@@ -1,2 +1,2 @@
-# React-Native-Leaning
-RN Learining
+# Notes for learing 
+
